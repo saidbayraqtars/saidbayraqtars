@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **saidbayraqtars/saidbayraqtars** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 # 👋 Said BAYRAKTAR  
 **Computer Engineer | Game Developer | Hardware & Software Integration**

@@ -8,10 +8,10 @@
 
 ## 🧭 About / Hakkımda  
 
-Computer engineer focusing on **game development**, **hardware-software integration**, and **web-based systems**.  
+Computer technician focusing on **game development**, **hardware-software integration**, and **web-based systems**.  
 Practical thinker passionate about building efficient, maintainable, and high-performance projects.  
 
-Bilgisayar mühendisi olarak **oyun geliştirme**, **donanım-yazılım entegrasyonu** ve **web tabanlı sistemler** üzerine çalışıyorum.  
+Bilgisayar teknisyeni olarak **oyun geliştirme**, **donanım-yazılım entegrasyonu** ve **web tabanlı sistemler** üzerine çalışıyorum.  
 Verimli, sürdürülebilir ve yüksek performanslı projeler üretmeye odaklı pratik bir geliştiriciyim.  
 
 ---

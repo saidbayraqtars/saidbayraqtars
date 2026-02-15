@@ -1,140 +1,134 @@
-Said Bayraktar
 
-Software Engineer | Systems Development | Web & Automation
+# Said Bayraktar  
+**Software Engineer | Systems Development | Web Architecture | Automation**
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saidbayraqtars&show_icons=true&theme=tokyonight&hide_border=true)
+Designing practical systems with measurable performance characteristics.  
+Focused on backend architecture, system-level experimentation, and production-ready web applications.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saidbayraqtars&layout=compact&theme=tokyonight&hide_border=true)
+---
 
-![GitHub Streak](https://streak-stats.demolab.com?user=saidbayraqtars&theme=tokyonight&hide_border=true)
+## GitHub Activity
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saidbayraqtars&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saidbayraqtars&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
-Profile
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=saidbayraqtars&theme=tokyonight&hide_border=true" />
+</p>
 
-Software engineer focused on system design, backend architecture, and practical engineering solutions.
+---
 
-Primary work includes self-driven technical projects, web-based systems, automation pipelines, and performance-oriented applications.
-Game development is limited to experimental research and engine-level exploration.
+## Engineering Focus
 
-I prioritize clean architecture, deterministic behavior, performance profiling, and maintainable codebases.
+- Backend system design
+- API-driven architectures
+- Real-time monitoring & automation
+- Performance profiling (C/C++)
+- Hardware–software integration
+- Clean modular design
 
-Technical Stack
-Programming Languages
+---
 
-C
-C++
-Python
-JavaScript
-TypeScript
+## Technical Stack
 
-Web & Backend
+### Programming
 
-React
+- C
+- C++
+- Python
+- JavaScript
+- TypeScript
 
-Next.js
+---
 
-Node.js
+### Web & Backend
 
-RESTful API design
+- React
+- Next.js
+- Node.js
+- REST API architecture
+- Authentication & session logic
+- Middleware design
+- Background processing
+- Environment configuration management
 
-Server-side rendering
+---
 
-Authentication & authorization flows
+### Systems & Hardware Integration
 
-State management strategies
+- Arduino
+- Raspberry Pi
+- Hardware telemetry
+- Threshold-based alert systems
+- Performance logging pipelines
+- IoT device communication
 
-Background job processing
+---
 
-Deployment and environment configuration
+### Tooling & Workflow
 
-Systems & Hardware Integration
+- Git (branching & PR discipline)
+- Docker
+- Visual Studio Code
+- Postman
+- Containerized development environments
+- CI/CD fundamentals
+- Version-controlled deployments
 
-Arduino
+---
 
-Raspberry Pi
+## Repository Structure
 
-Hardware data acquisition
+### Web Applications
 
-Real-time monitoring systems
+Production-oriented full-stack systems emphasizing:
 
-Threshold-based alert logic
+- Scalability
+- Maintainability
+- Performance-aware frontend
+- Structured backend layering
 
-Performance diagnostics and logging
+---
 
-IoT communication layers
+### Systems Experiments
 
-Tooling & Workflow
+Low-level experimentation including:
 
-Git (branching strategies, PR workflow)
+- Memory behavior analysis
+- Concurrency testing
+- Profiling & optimization
+- Automation scripting
+- Process-level diagnostics
 
-Docker (containerization & reproducible environments)
+---
 
-Visual Studio Code
+### Game Development (Research-Oriented)
 
-Postman
-
-CI/CD fundamentals
-
-Environment variable management
-
-Versioned release practices
-
-Repository Focus
-Web Applications
-
-Full-stack applications emphasizing:
-
-Modular architecture
-
-Scalable backend structure
-
-API-driven design
-
-Performance-conscious frontend implementation
-
-Systems Experiments
-
-Low-level and architectural experiments involving:
-
-Memory behavior (C/C++)
-
-Process-level performance testing
-
-Profiling and optimization
-
-Concurrency exploration
-
-Automation scripts
-
-Game Development (Experimental)
-
-Limited projects using:
-
-Unity
+Limited experimental work using Unity.
 
 Focus areas:
 
-Gameplay mechanics prototyping
+- Mechanics prototyping
+- Physics behavior testing
+- Engine experimentation
 
-Physics behavior testing
+Not focused on commercial publishing.
 
-Engine experimentation
-Not production-level game publishing.
+---
 
-Engineering Direction
+## Development Philosophy
 
-Scalable backend systems
+- Build for clarity.
+- Measure performance.
+- Remove unnecessary abstraction.
+- Optimize only after profiling.
+- Prefer deterministic behavior over convenience.
 
-Real-time data processing
+---
 
-Automation pipelines
+## Contact
 
-Performance optimization
-
-Software architecture patterns
-
-Contact
-
-Email: saidbayraktar9@gmail.com
-
-LinkedIn: https://www.linkedin.com/in/said-bayraktar9
+- Email: saidbayraktar9@gmail.com
+- LinkedIn: https://www.linkedin.com/in/said-bayraktar9
